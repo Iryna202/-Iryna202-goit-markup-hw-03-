@@ -58,6 +58,7 @@ body {
   margin-right: 85px;
   padding-top: 24px;
   padding-bottom: 25px;
+  text-transform: capitalize;
 }
 .navigation-list {
   display: flex;
@@ -87,8 +88,6 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  /* identical to box height */
-
   letter-spacing: 0.03em;
   color: var(--accent-color);
 }
@@ -143,6 +142,7 @@ body {
   margin: 0;
 }
 .section-hero {
+  background-image: url()
   display: block;
 }
 .main-hero-slider {
