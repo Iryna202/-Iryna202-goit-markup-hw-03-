@@ -364,7 +364,6 @@ body {
   display: flex;
   align-items: center;
   height: 44px;
-  margin-bottom: 24px;
 }
 
 .team-subtitle {
@@ -467,12 +466,15 @@ body {
 .section.hedder-portfolio {
   border-bottom: 1px solid #ececec;
 }
+.gallery-btn-list {
+  display: block;
+  padding-top: 94px;
+  padding-bottom: 50px;
+}
 .gallery-btn {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 50px;
-  margin-bottom: 50px;
 }
 
 .gallery-btn-items-name {
